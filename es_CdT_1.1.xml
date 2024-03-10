@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Scrivere e fare il check di un xml non opportunamente annidato
+Filename: project.xml
+Author: Eleonora Mastroianni
+Date: 08/03/2024 -->
+<root>
+    <product>
+        <immagine>
+    </product>
+        </immagine>
+</root>
+<!--epilogo-->
